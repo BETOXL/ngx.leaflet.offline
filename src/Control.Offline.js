@@ -58,7 +58,7 @@
             var container = L.DomUtil.create('div', 'leaflet-control-offline leaflet-bar');
 
             this._createButton(this.options.saveButtonHtml, this.options.saveButtonTitle, 'save-tiles-button', container, this._saveTiles);
-            this._createButton(this.options.removeButtonHtml, this.options.removeIconTitle, 'remove-tiles-button', container, this._removeTiles);
+            this._createButton(this.options.removeButtonHtml, this.options.removeButtonTitle, 'remove-tiles-button', container, this._removeTiles);
 
             return container;
         },
