@@ -16,7 +16,7 @@ The biggest change I made was removing the dependency on [localForage](https://g
 ## Install
 
 If you use ```npm```, you can install ```leaflet-offline``` by running:
-```npm install leaflet-offline```
+```npm install ngx.leaflet.offline```
 
 If you don't use a package manager, simply download a file from the ```dist/``` folder and include it in your application.
 
