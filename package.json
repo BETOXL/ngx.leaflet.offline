@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-offline",
+  "name": "ngx.leaflet.offline",
   "version": "1.1.0",
   "description": "A Leaflet library that downloads map tiles and uses them offline.",
   "main": "src/leaflet-offline.js",
