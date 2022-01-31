@@ -5,7 +5,7 @@
   "main": "src/leaflet-offline.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robertomlsoares/leaflet-offline.git"
+    "url": "git+https://github.com/BETOXL/leaflet-offline.git"
   },
   "keywords": [
     "leaflet",
@@ -16,9 +16,9 @@
   "author": "Roberto Soares",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/robertomlsoares/leaflet-offline/issues"
+    "url": "https://github.com/BETOXL/leaflet-offline/issues"
   },
-  "homepage": "https://github.com/robertomlsoares/leaflet-offline#readme",
+  "homepage": "https://github.com/BETOXL/leaflet-offline#readme",
   "dependencies": {
     "leaflet": "^1.1.0"
   },
