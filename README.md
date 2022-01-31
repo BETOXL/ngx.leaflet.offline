@@ -2,6 +2,8 @@
 A Leaflet library that downloads map tiles and uses them offline.
 Check out the demo at https://betoxl.github.io/leaflet-offline/index.html .
 
+Example: https://github.com/BETOXL/offlinemap-angular-example
+
 ## Inspiration
 This library was heavily inspired and based on the [leaflet.offline](https://github.com/allartk/leaflet.offline) library by Allart Kooiman.
 I decided to create a new one because the ideas I had were diverging too much from what ```leaflet.offline``` proposes to do.
