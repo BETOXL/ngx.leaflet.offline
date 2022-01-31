@@ -9,7 +9,7 @@ var del = require('del');
 var jsFiles = [
     'src/TileLayer.Offline.js',
     'src/Control.Offline.js',
-    'src/leaflet-offline.js'
+    'src/ngx.leaflet.offline.js'
 ];
 
 gulp.task('clean', function () {
@@ -19,14 +19,14 @@ gulp.task('clean', function () {
 gulp.task('js', function (cb) {
     pump([
         gulp.src(jsFiles),
-        concat('leaflet-offline.js'),
+        concat('ngx.leaflet.offline.js'),
         gulp.dest('dist')
     ], cb);
 });
 
 gulp.task('minify', ['clean', 'js'], function (cb) {
     pump([
-        gulp.src(['dist/leaflet-offline.js']),
+        gulp.src(['dist/ngx.leaflet.offline.js']),
         rename({ suffix: '.min' }),
         uglify(),
         gulp.dest('dist')

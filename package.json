@@ -1,11 +1,11 @@
 {
   "name": "ngx.leaflet.offline",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Leaflet library that downloads map tiles and uses them offline.",
-  "main": "src/leaflet-offline.js",
+  "main": "src/ngx.leaflet.offline.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BETOXL/leaflet-offline.git"
+    "url": "git+https://github.com/BETOXL/ngx.leaflet.offline.git"
   },
   "keywords": [
     "leaflet",
@@ -13,12 +13,12 @@
     "map",
     "download"
   ],
-  "author": "Roberto Soares",
+  "author": "Alberto Robledo Sanchez",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/BETOXL/leaflet-offline/issues"
+    "url": "https://github.com/BETOXL/ngx.leaflet.offline/issues"
   },
-  "homepage": "https://github.com/BETOXL/leaflet-offline#readme",
+  "homepage": "https://github.com/BETOXL/ngx.leaflet.offline#readme",
   "dependencies": {
     "leaflet": "^1.1.0"
   },

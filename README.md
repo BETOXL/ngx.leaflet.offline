@@ -1,6 +1,6 @@
-# leaflet-offline [![License: GPLv2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://opensource.org/licenses/GPL-2.0) [![npm version](https://badge.fury.io/js/leaflet-offline.svg)](https://badge.fury.io/js/leaflet-offline)
+# ngx.leaflet.offline [![License: GPLv2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://opensource.org/licenses/GPL-2.0) [![npm version](https://badge.fury.io/js/ngx.leaflet.offline.svg)](https://badge.fury.io/js/ngx.leaflet.offline)
 A Leaflet library that downloads map tiles and uses them offline.
-Check out the demo at https://betoxl.github.io/leaflet-offline/index.html .
+Check out the demo at https://betoxl.github.io/ngx.leaflet.offline/index.html .
 
 Example: https://github.com/BETOXL/offlinemap-angular-example
 
@@ -15,7 +15,7 @@ The biggest change I made was removing the dependency on [localForage](https://g
 
 ## Install
 
-If you use ```npm```, you can install ```leaflet-offline``` by running:
+If you use ```npm```, you can install ```ngx.leaflet.offline``` by running:
 ```npm install ngx.leaflet.offline```
 
 If you don't use a package manager, simply download a file from the ```dist/``` folder and include it in your application.
