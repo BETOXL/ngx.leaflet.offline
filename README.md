@@ -4,6 +4,8 @@ Check out the demo at https://betoxl.github.io/ngx.leaflet.offline/index.html .
 
 Example: https://github.com/BETOXL/offlinemap-angular-example
 
+@types https://www.npmjs.com/package/@types/ngx.leaflet.offline
+
 ## Inspiration
 This library was heavily inspired and based on the [leaflet.offline](https://github.com/allartk/leaflet.offline) library by Allart Kooiman.
 I decided to create a new one because the ideas I had were diverging too much from what ```leaflet.offline``` proposes to do.
