@@ -1,6 +1,6 @@
 # leaflet-offline [![License: GPLv2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://opensource.org/licenses/GPL-2.0) [![npm version](https://badge.fury.io/js/leaflet-offline.svg)](https://badge.fury.io/js/leaflet-offline)
 A Leaflet library that downloads map tiles and uses them offline.
-Check out the demo at https://robertomlsoares.github.io/leaflet-offline/.
+Check out the demo at https://BETOXL.github.io/leaflet-offline/.
 
 ## Inspiration
 This library was heavily inspired and based on the [leaflet.offline](https://github.com/allartk/leaflet.offline) library by Allart Kooiman.
